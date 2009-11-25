@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Plack/Middleware/MailOnError.pm
+t/00-load.t
+t/pod-coverage.t
+t/01-stacktrace.t
+t/02-plack.t
+t/pod.t
